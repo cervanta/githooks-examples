@@ -16,3 +16,5 @@ Also the files that house our hooks need to be executable. To do this we run:
 make make_githooks_executable
 ```
 
+
+A full list of available hooks can be found here: [https://git-scm.com/docs/githooks](https://git-scm.com/docs/githooks)
