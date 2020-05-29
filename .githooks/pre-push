@@ -1,3 +1,1 @@
 echo "Hello world from the pre-push hook"
-
-ls -a
